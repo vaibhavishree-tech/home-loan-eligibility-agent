@@ -1,0 +1,6 @@
+Based on the following employee details, determine the loan eligibility and the maximum loan amount as per company policy:
+EmployeeName: {EmployeeName}
+Designation: {Designation}
+Salary: {Salary}
+EmploymentType: {EmploymentType}
+Experience: {Experience}

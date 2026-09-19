@@ -1,0 +1,10 @@
+Corporate HR Home Loan Policy Context:
+
+1. Only permanent employees are eligible.
+2. Employees with less than 3 years of experience are not eligible.
+3. Employees with 3-5 years of experience can apply for up to 40% of annual salary.
+4. Employees with more than 5 years of experience can apply for up to 60% of annual salary.
+5. Managers and above can apply for up to 70% of annual salary.
+6. Maximum loan limit: ₹50,00,000
+7. Interest rate: 7.2% per annum (fixed)
+8. Repayment period: Up to 15 years.
